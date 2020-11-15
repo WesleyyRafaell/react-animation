@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body, #root, .App, .containerAnimtion{
+    height: 100%;
+}
+
+.containerAnimtion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #00BFFF;
+}
